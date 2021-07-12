@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/kamal_portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/kamal_portfolio/static/js/main.1df2e873.chunk.js",
-    "main.js.map": "/kamal_portfolio/static/js/main.1df2e873.chunk.js.map",
-    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.0d8b2365.js",
-    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.0d8b2365.js.map",
-    "static/js/2.374091b6.chunk.js": "/kamal_portfolio/static/js/2.374091b6.chunk.js",
-    "static/js/2.374091b6.chunk.js.map": "/kamal_portfolio/static/js/2.374091b6.chunk.js.map",
-    "static/js/3.b42194d4.chunk.js": "/kamal_portfolio/static/js/3.b42194d4.chunk.js",
-    "static/js/3.b42194d4.chunk.js.map": "/kamal_portfolio/static/js/3.b42194d4.chunk.js.map",
+    "main.css": "/kamal_portfolio/static/css/main.8ac7ab35.chunk.css",
+    "main.js": "/kamal_portfolio/static/js/main.0b8f505b.chunk.js",
+    "main.js.map": "/kamal_portfolio/static/js/main.0b8f505b.chunk.js.map",
+    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.a5b32e8c.js",
+    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.a5b32e8c.js.map",
+    "static/js/2.79b8225d.chunk.js": "/kamal_portfolio/static/js/2.79b8225d.chunk.js",
+    "static/js/2.79b8225d.chunk.js.map": "/kamal_portfolio/static/js/2.79b8225d.chunk.js.map",
+    "static/js/3.6ea0a943.chunk.js": "/kamal_portfolio/static/js/3.6ea0a943.chunk.js",
+    "static/js/3.6ea0a943.chunk.js.map": "/kamal_portfolio/static/js/3.6ea0a943.chunk.js.map",
     "index.html": "/kamal_portfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/kamal_portfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.374091b6.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.374091b6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/kamal_portfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.8ac7ab35.chunk.css.map": "/kamal_portfolio/static/css/main.8ac7ab35.chunk.css.map",
+    "static/js/2.79b8225d.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.79b8225d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d8b2365.js",
-    "static/js/2.374091b6.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.1df2e873.chunk.js"
+    "static/js/runtime-main.a5b32e8c.js",
+    "static/js/2.79b8225d.chunk.js",
+    "static/css/main.8ac7ab35.chunk.css",
+    "static/js/main.0b8f505b.chunk.js"
   ]
 }
