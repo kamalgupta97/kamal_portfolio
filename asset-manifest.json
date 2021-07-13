@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kamal_portfolio/static/css/main.6d3f9a79.chunk.css",
-    "main.js": "/kamal_portfolio/static/js/main.cb6740af.chunk.js",
-    "main.js.map": "/kamal_portfolio/static/js/main.cb6740af.chunk.js.map",
-    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.088c9080.js",
-    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.088c9080.js.map",
-    "static/js/2.20bbf5d1.chunk.js": "/kamal_portfolio/static/js/2.20bbf5d1.chunk.js",
-    "static/js/2.20bbf5d1.chunk.js.map": "/kamal_portfolio/static/js/2.20bbf5d1.chunk.js.map",
-    "static/js/3.b694266e.chunk.js": "/kamal_portfolio/static/js/3.b694266e.chunk.js",
-    "static/js/3.b694266e.chunk.js.map": "/kamal_portfolio/static/js/3.b694266e.chunk.js.map",
+    "main.css": "/kamal_portfolio/static/css/main.70b620d2.chunk.css",
+    "main.js": "/kamal_portfolio/static/js/main.43702383.chunk.js",
+    "main.js.map": "/kamal_portfolio/static/js/main.43702383.chunk.js.map",
+    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.5eb5a24a.js",
+    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.5eb5a24a.js.map",
+    "static/js/2.d653cf74.chunk.js": "/kamal_portfolio/static/js/2.d653cf74.chunk.js",
+    "static/js/2.d653cf74.chunk.js.map": "/kamal_portfolio/static/js/2.d653cf74.chunk.js.map",
+    "static/js/3.c10c266a.chunk.js": "/kamal_portfolio/static/js/3.c10c266a.chunk.js",
+    "static/js/3.c10c266a.chunk.js.map": "/kamal_portfolio/static/js/3.c10c266a.chunk.js.map",
     "index.html": "/kamal_portfolio/index.html",
-    "static/css/main.6d3f9a79.chunk.css.map": "/kamal_portfolio/static/css/main.6d3f9a79.chunk.css.map",
-    "static/js/2.20bbf5d1.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.20bbf5d1.chunk.js.LICENSE.txt",
+    "static/css/main.70b620d2.chunk.css.map": "/kamal_portfolio/static/css/main.70b620d2.chunk.css.map",
+    "static/js/2.d653cf74.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.d653cf74.chunk.js.LICENSE.txt",
     "static/media/kamal.87c0cbee.png": "/kamal_portfolio/static/media/kamal.87c0cbee.png",
     "static/media/resume.cc6cfdcb.pdf": "/kamal_portfolio/static/media/resume.cc6cfdcb.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.088c9080.js",
-    "static/js/2.20bbf5d1.chunk.js",
-    "static/css/main.6d3f9a79.chunk.css",
-    "static/js/main.cb6740af.chunk.js"
+    "static/js/runtime-main.5eb5a24a.js",
+    "static/js/2.d653cf74.chunk.js",
+    "static/css/main.70b620d2.chunk.css",
+    "static/js/main.43702383.chunk.js"
   ]
 }
