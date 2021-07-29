@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/kamal_portfolio/static/css/main.bde6c043.chunk.css",
-    "main.js": "/kamal_portfolio/static/js/main.e1eb58ce.chunk.js",
-    "main.js.map": "/kamal_portfolio/static/js/main.e1eb58ce.chunk.js.map",
-    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.eb988140.js",
-    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.eb988140.js.map",
-    "static/js/2.fbb3b926.chunk.js": "/kamal_portfolio/static/js/2.fbb3b926.chunk.js",
-    "static/js/2.fbb3b926.chunk.js.map": "/kamal_portfolio/static/js/2.fbb3b926.chunk.js.map",
-    "static/js/3.62f69b03.chunk.js": "/kamal_portfolio/static/js/3.62f69b03.chunk.js",
-    "static/js/3.62f69b03.chunk.js.map": "/kamal_portfolio/static/js/3.62f69b03.chunk.js.map",
+    "main.css": "/kamal_portfolio/static/css/main.1065b855.chunk.css",
+    "main.js": "/kamal_portfolio/static/js/main.70cdc1cf.chunk.js",
+    "main.js.map": "/kamal_portfolio/static/js/main.70cdc1cf.chunk.js.map",
+    "runtime-main.js": "/kamal_portfolio/static/js/runtime-main.1b5bd882.js",
+    "runtime-main.js.map": "/kamal_portfolio/static/js/runtime-main.1b5bd882.js.map",
+    "static/js/2.81b75fcd.chunk.js": "/kamal_portfolio/static/js/2.81b75fcd.chunk.js",
+    "static/js/2.81b75fcd.chunk.js.map": "/kamal_portfolio/static/js/2.81b75fcd.chunk.js.map",
+    "static/js/3.d4d93292.chunk.js": "/kamal_portfolio/static/js/3.d4d93292.chunk.js",
+    "static/js/3.d4d93292.chunk.js.map": "/kamal_portfolio/static/js/3.d4d93292.chunk.js.map",
     "index.html": "/kamal_portfolio/index.html",
-    "static/css/main.bde6c043.chunk.css.map": "/kamal_portfolio/static/css/main.bde6c043.chunk.css.map",
-    "static/js/2.fbb3b926.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.fbb3b926.chunk.js.LICENSE.txt",
+    "static/css/main.1065b855.chunk.css.map": "/kamal_portfolio/static/css/main.1065b855.chunk.css.map",
+    "static/js/2.81b75fcd.chunk.js.LICENSE.txt": "/kamal_portfolio/static/js/2.81b75fcd.chunk.js.LICENSE.txt",
     "static/media/StrawBerry.e98170d5.jfif": "/kamal_portfolio/static/media/StrawBerry.e98170d5.jfif",
     "static/media/getharvest.73aa60b3.png": "/kamal_portfolio/static/media/getharvest.73aa60b3.png",
     "static/media/kamal.87c0cbee.png": "/kamal_portfolio/static/media/kamal.87c0cbee.png",
@@ -19,9 +19,9 @@
     "static/media/unbounce.e321bfc4.PNG": "/kamal_portfolio/static/media/unbounce.e321bfc4.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb988140.js",
-    "static/js/2.fbb3b926.chunk.js",
-    "static/css/main.bde6c043.chunk.css",
-    "static/js/main.e1eb58ce.chunk.js"
+    "static/js/runtime-main.1b5bd882.js",
+    "static/js/2.81b75fcd.chunk.js",
+    "static/css/main.1065b855.chunk.css",
+    "static/js/main.70cdc1cf.chunk.js"
   ]
 }
