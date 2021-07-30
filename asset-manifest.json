@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.80c4adba.chunk.css",
-    "main.js": "/static/js/main.44bbb804.chunk.js",
-    "main.js.map": "/static/js/main.44bbb804.chunk.js.map",
+    "main.css": "/static/css/main.fe4e97b3.chunk.css",
+    "main.js": "/static/js/main.63319ee8.chunk.js",
+    "main.js.map": "/static/js/main.63319ee8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3a8c7692.js",
     "runtime-main.js.map": "/static/js/runtime-main.3a8c7692.js.map",
     "static/js/2.459664ed.chunk.js": "/static/js/2.459664ed.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d4d93292.chunk.js": "/static/js/3.d4d93292.chunk.js",
     "static/js/3.d4d93292.chunk.js.map": "/static/js/3.d4d93292.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.80c4adba.chunk.css.map": "/static/css/main.80c4adba.chunk.css.map",
+    "static/css/main.fe4e97b3.chunk.css.map": "/static/css/main.fe4e97b3.chunk.css.map",
     "static/js/2.459664ed.chunk.js.LICENSE.txt": "/static/js/2.459664ed.chunk.js.LICENSE.txt",
     "static/media/StrawBerry.e98170d5.jfif": "/static/media/StrawBerry.e98170d5.jfif",
     "static/media/getharvest.73aa60b3.png": "/static/media/getharvest.73aa60b3.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.3a8c7692.js",
     "static/js/2.459664ed.chunk.js",
-    "static/css/main.80c4adba.chunk.css",
-    "static/js/main.44bbb804.chunk.js"
+    "static/css/main.fe4e97b3.chunk.css",
+    "static/js/main.63319ee8.chunk.js"
   ]
 }
