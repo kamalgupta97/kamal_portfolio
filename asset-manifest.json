@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8bc6d8a9.chunk.css",
-    "main.js": "/static/js/main.c317968f.chunk.js",
-    "main.js.map": "/static/js/main.c317968f.chunk.js.map",
+    "main.js": "/static/js/main.066daab6.chunk.js",
+    "main.js.map": "/static/js/main.066daab6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9dc78d53.js",
     "runtime-main.js.map": "/static/js/runtime-main.9dc78d53.js.map",
     "static/js/2.8d065eb1.chunk.js": "/static/js/2.8d065eb1.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/StrawBerry.e98170d5.jfif": "/static/media/StrawBerry.e98170d5.jfif",
     "static/media/getharvest.73aa60b3.png": "/static/media/getharvest.73aa60b3.png",
     "static/media/kamal.87c0cbee.png": "/static/media/kamal.87c0cbee.png",
-    "static/media/resume.cc6cfdcb.pdf": "/static/media/resume.cc6cfdcb.pdf",
+    "static/media/resume.33cdc94e.pdf": "/static/media/resume.33cdc94e.pdf",
     "static/media/unbounce.e321bfc4.PNG": "/static/media/unbounce.e321bfc4.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.9dc78d53.js",
     "static/js/2.8d065eb1.chunk.js",
     "static/css/main.8bc6d8a9.chunk.css",
-    "static/js/main.c317968f.chunk.js"
+    "static/js/main.066daab6.chunk.js"
   ]
 }
