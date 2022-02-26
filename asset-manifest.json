@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d36a3000.chunk.css",
-    "main.js": "/static/js/main.0156e1b0.chunk.js",
-    "main.js.map": "/static/js/main.0156e1b0.chunk.js.map",
+    "main.css": "/static/css/main.79c30129.chunk.css",
+    "main.js": "/static/js/main.6c64751c.chunk.js",
+    "main.js.map": "/static/js/main.6c64751c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.058bfe6d.js",
     "runtime-main.js.map": "/static/js/runtime-main.058bfe6d.js.map",
     "static/js/2.8d9901db.chunk.js": "/static/js/2.8d9901db.chunk.js",
@@ -10,19 +10,19 @@
     "static/js/3.d3e53208.chunk.js": "/static/js/3.d3e53208.chunk.js",
     "static/js/3.d3e53208.chunk.js.map": "/static/js/3.d3e53208.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d36a3000.chunk.css.map": "/static/css/main.d36a3000.chunk.css.map",
+    "static/css/main.79c30129.chunk.css.map": "/static/css/main.79c30129.chunk.css.map",
     "static/js/2.8d9901db.chunk.js.LICENSE.txt": "/static/js/2.8d9901db.chunk.js.LICENSE.txt",
     "static/media/StrawBerry.e98170d5.jfif": "/static/media/StrawBerry.e98170d5.jfif",
     "static/media/cartoon.cab884bb.png": "/static/media/cartoon.cab884bb.png",
     "static/media/getharvest.73aa60b3.png": "/static/media/getharvest.73aa60b3.png",
     "static/media/kamal.87c0cbee.png": "/static/media/kamal.87c0cbee.png",
-    "static/media/resume.33cdc94e.pdf": "/static/media/resume.33cdc94e.pdf",
+    "static/media/resume.34e72641.pdf": "/static/media/resume.34e72641.pdf",
     "static/media/unbounce.e321bfc4.PNG": "/static/media/unbounce.e321bfc4.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.058bfe6d.js",
     "static/js/2.8d9901db.chunk.js",
-    "static/css/main.d36a3000.chunk.css",
-    "static/js/main.0156e1b0.chunk.js"
+    "static/css/main.79c30129.chunk.css",
+    "static/js/main.6c64751c.chunk.js"
   ]
 }
